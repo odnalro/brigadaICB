@@ -1,24 +1,24 @@
 h1{
-        color: #f8fcf7;;
+        color: rgb(255, 255, 255);
     text-align: center;
     
 }
 h2{
-    color: rgb(212, 252, 247);
+    color: rgb(255, 255, 255);
     text-align: center;
 
     
 }
 
-.cadastro{   
+.incendio{   
      margin-bottom: 30px;
     font-size: 50px;
 text-align: center;
 display: block;
-background-color: white;
-    width: 500;
+background-color:white;
+    width: 177;
     margin: 0 auto;
-    color: black;
+    color: white;
     text-decoration: none;
     border: 2px solid;
     margin-top: 20px;
@@ -28,12 +28,12 @@ background-color: white;
     height: 500px;
     margin: 0 auto;
 margin-top: 40px;
-    background-image: url(Anitta.jpg);
+    background-image: url(84417742.png);
     background-size: cover;
 
 }
 body{
-    background-image: url("imagem 23.png");
+    background-image: url("formacao-e-treinamento-de-brigada-de-incendio-florestal-01.jpg");
     color: #FFEB3B;
         color: #FFEB3B;
         background-size: cover;
