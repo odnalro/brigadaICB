@@ -1,11 +1,15 @@
 h1{
         color: rgb(255, 255, 255);
-    text-align: center;
+    width: 177;
+
+
+
+    ;
     
 }
 h2{
     color: rgb(255, 255, 255);
-    text-align: center;
+    width: 244;
 
     
 }
@@ -16,19 +20,21 @@ h2{
 text-align: center;
 display: block;
 background-color:white;
-    width: 177;
-    margin: 0 auto;
+    width: 254;
+    margin: 254px;
     color: white;
     text-decoration: none;
     border: 2px solid;
     margin-top: 20px;
 }
 .topo{ 
+    padding-bottom: 10px;
+    padding-left: 350px;
     width: 500px;
     height: 500px;
-    margin: 0 auto;
+    margin: 0px;
 margin-top: 40px;
-    background-image: url(84417742.png);
+    background-image: url(8441742.png);
     background-size: cover;
 
 }
@@ -41,7 +47,26 @@ body{
 
 }
 form{
-    margin: 0 auto;
+    margin: 0 ;
     width: 750;
         width: 500px;
 }
+.page-footer, nav{
+    background-color: orange;
+}
+
+.cabecalho{
+
+}
+.topo{
+
+}
+.rodape{
+
+}
+
+
+
+
+
+
